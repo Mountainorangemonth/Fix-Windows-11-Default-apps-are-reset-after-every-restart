@@ -8,6 +8,8 @@
 
 **但是在`HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Internet Settings`这里面用户没有了，只需要在注册表这个文件夹权限添加`ALL APPLICATION PACKAGES`用户，懒人就用软件。**
 
+***
+
 
 季節は次々死んでいく
 
