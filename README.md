@@ -1,0 +1,1 @@
+# Fix Windows 11 Default apps are reset after every restart
