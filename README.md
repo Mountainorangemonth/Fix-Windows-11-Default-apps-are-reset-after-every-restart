@@ -6,7 +6,7 @@
 
 **问题是在 Windows 11 中 `ALL APPLICATION PACKAGES` 是个特殊的用户组，微软使用该用户组运行权限受限的进程或应用程序，通常情况下该用户组用于文件和文件夹的访问控制。**
 
-**但是在`HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Internet Settings`这里面没有了只需要在注册表这个文件夹权限添加`ALL APPLICATION PACKAGES`，懒人就用软件**
+**但是在`HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Internet Settings`这里面用户没有了，只需要在注册表这个文件夹权限添加`ALL APPLICATION PACKAGES`用户，懒人就用软件。**
 
 
 季節は次々死んでいく
